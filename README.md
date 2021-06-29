@@ -1,4 +1,4 @@
-# Pizza Store
+# Pizza 
 
 #### A portfolio for studio, june, 2021
 
