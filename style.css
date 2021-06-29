@@ -1173,21 +1173,21 @@ input.form-controllar{
  .select-custom:active, .reservation-block.style-three .form-controllar:focus, .reservation-block.style-three .form-controllar:active,
 .reservation-block.style-three .select-custom:focus,
 .reservation-block.style-three .select-custom:active {
-  color: RED;
+  color: grey;
 }
  .date:after, .reservation-block.style-three .date:after {
   color: #c4c4c4;
   opacity: 0.7;
 }
  .select-custom .current, .reservation-block.style-three .select-custom .current {
-  color: white;
+  color: grey;
   opacity: 1;
 }
  .select-custom .list, .reservation-block.style-three .select-custom .list {
   color: black;
 }
  .select-custom:after, .reservation-block.style-three .select-custom:after {
-  color: white;
+  color: grey;
   top: 1px;
 }
  .form-controllar,
@@ -1195,6 +1195,6 @@ input.form-controllar{
   border: 2px solid #535250;
   border-radius: 40px;
   padding: 7px 30px;
-  color: white;
+  color: grey;
   font-size: 14px;
 }
